@@ -255,24 +255,24 @@ box-shadow: 0px 0px 5px 2px rgba(30,237,7,1);
 
 @media (max-width:375px) {
     .img-homero{
-        width: 20rem;
+        width: 15rem;
         display: block;
     }
     .display,
     .sub-display {
-        width: 90%;
-        height: 30rem;
+        width: 75%;
+        height: 25rem;
     }
-
+    
     .textarea {
-        height: 10rem;
-        padding-top: 8rem;
+        height: 9rem;
+        padding-top: 4rem;
         /* line-height: 20rem; */
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
     .box-input {
-        height: 7rem;
+        height: 5rem;
     }
 
     .input {
@@ -285,12 +285,12 @@ box-shadow: 0px 0px 5px 2px rgba(30,237,7,1);
     }
     .img-encriptadoexito{
      
-        width: 15rem;
+        width: 10rem;
      
     }
     .img-desencriptadoexito{
         
-        width: 15rem;
+        width: 10rem;
         
     }
     .reset{
